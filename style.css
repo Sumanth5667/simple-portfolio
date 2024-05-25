@@ -1,0 +1,12 @@
+/* Custom styles for Streamlit app */
+
+/* Sidebar buttons */
+.sidebar .css-1oln91q {
+    background-color: black;
+    color: white;
+}
+
+/* Hover effect for sidebar buttons */
+.sidebar .css-1oln91q:hover {
+    background-color: #333;
+}
