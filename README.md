@@ -1,2 +1,2 @@
-SIMPLE PORTFOLIO WEBSITE FOR BEGINNERS
-                                   -SUMANTH NIMMMAGADDA.
+- **SIMPLE PORTFOLIO WEBSITE FOR BEGINNERS**
+                                   - SUMANTH NIMMMAGADDA.
